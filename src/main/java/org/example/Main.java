@@ -14,8 +14,7 @@ public class Main {
     }
 
     private static double   potencia(double base,double exponente){
-        return Math.pow(base, base) +0;
-
+        return Math.pow(base, exponente);
 
     }
 
